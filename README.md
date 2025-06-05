@@ -1,1 +1,1 @@
-# test-suma
+# tests-triangle
